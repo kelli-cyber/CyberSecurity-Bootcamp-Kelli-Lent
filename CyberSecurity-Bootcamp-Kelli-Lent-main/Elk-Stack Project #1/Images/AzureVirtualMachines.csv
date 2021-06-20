@@ -1,0 +1,7 @@
+SEP=,
+NAME,SUBSCRIPTION,RESOURCE GROUP,LOCATION,STATUS,OPERATING SYSTEM,SIZE,PUBLIC IP ADDRESS,DISKS,
+"ELK-VM-1","Azure subscription 1","red-team","West US 3","Stopped (deallocated)","Linux","Standard_B2s","-","1"
+"Jump-Box-Provisioner","Azure subscription 1","red-team","West US 2","Stopped (deallocated)","Linux","Standard_B1s","20.94.207.252","1"
+"Web-1","Azure subscription 1","red-team","West US 2","Stopped (deallocated)","Linux","Standard_B1ms","20.94.204.242","1"
+"Web-2","Azure subscription 1","red-team","West US 2","Stopped (deallocated)","Linux","Standard_B1ms","20.94.204.242","1"
+"Web-3","Azure subscription 1","red-team","West US 2","Stopped (deallocated)","Linux","Standard_B1ms","-","1"
